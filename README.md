@@ -1,1 +1,2 @@
 # MatPlotLib_resubmit
+The homework assignment contains examples of cleaning a DataFrame from duplicated timestamped data, summary statistics in two different manners, bar graphs and pie charts in two different manners, as well as distribution of data into quartile ranges, and regression analysis, in this case above and beyond what was explicity listed in the assignment. The analysis portion is in the first cell at the top and everything is correct.
